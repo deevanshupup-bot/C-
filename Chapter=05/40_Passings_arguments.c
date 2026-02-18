@@ -6,7 +6,7 @@ int main(){
     scanf("%d", &a);
     printf("Enter 2nd number\n");
     scanf("%d", &b);
-    int result = sum(a,b); // funcation call 
+    int result = sum(a,b); // function call 
     printf("sum=%d\n", result);
     return 0;
 }
