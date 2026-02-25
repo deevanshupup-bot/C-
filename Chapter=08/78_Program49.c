@@ -14,7 +14,7 @@ int countLength(char arr[]){
         count++;
     }
     printf("\n");
-    return count-1;
+    return count-1; // esko nhi kare ge toh \0 yh wala vi add hoga 
 }
 
 void printString(char arr[]){
